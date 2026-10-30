@@ -8,6 +8,12 @@ The system uses a **Random Forest Classifier** to identify potential network iss
 
 The application is developed using Python and Streamlit, providing an interactive interface for network condition prediction and probability analysis.
 
+## 🚀 Live Application
+
+Try the application here:
+
+[Open Smart Communication Network Analysis](https://smart-communication-network-analysis.streamlit.app/)
+
 ## 🎯 Objectives
 
 - Analyze key communication network parameters.
@@ -92,6 +98,7 @@ The trained Random Forest Classifier achieved:
 The model was evaluated using an 80:20 stratified train-test split.
 
 **Important:** This accuracy represents performance on a held-out portion of the synthetic dataset. It should not be interpreted as validated real-world network prediction accuracy.
+**Note:** Model probability scores represent the classifier's estimated probabilities and do not guarantee prediction correctness.
 
 ## 💻 Web Application Features
 
@@ -150,6 +157,7 @@ streamlit run app.py
 - Improving model generalization and reliability.
 - Adding network performance visualization dashboards.
 - Developing automated network issue detection.
+- Integration with real-time network traffic monitoring and alert systems.
 
 ## 👩‍💻 Author
 
