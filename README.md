@@ -112,6 +112,8 @@ Smart-Communication-Network-Analysis/
 ├── network_analysis.ipynb
 ├── network_model.pkl
 ├── requirements.txt
+├── Dashboard.PNG
+├── prediction result.PNG
 └── README.md
 ```
 
@@ -120,7 +122,7 @@ Smart-Communication-Network-Analysis/
 **Step 1: Clone the repository**
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/sejalpatil0211/Smart-Communication-Network-Analysis.git
 ```
 
 **Step 2: Navigate to the project directory**
