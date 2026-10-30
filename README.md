@@ -156,3 +156,11 @@ streamlit run app.py
 Third Year Electronics and Telecommunication Engineering Student
 
 **Project:** Smart Communication Network Analysis and Prediction Using Machine Learning
+
+## 📸 Application Screenshots
+
+### 1. Main Dashboard
+![Main Dashboard](Dashboard.PNG)
+
+### 2. Prediction Result
+![Prediction Result](prediction%20result.PNG)
